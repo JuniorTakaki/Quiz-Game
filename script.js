@@ -2,10 +2,10 @@ const questions =[
     {
         question: " If 'Descartes' said 'I think, therefore I am,' then answer how much is 2-6x2",
         answers:[
-            {text:"8", correct:false},
-            {text:"10", correct:true},
+            {text:"-8", correct:false},
+            {text:"-10", correct:true},
             {text:"6", correct:false},
-            {text:"12", correct:false},
+            {text:"-12", correct:false},
         ]
     },
     {
