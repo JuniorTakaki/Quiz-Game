@@ -1,47 +1,44 @@
 const questions =[
     {
-        question: " If 'Descartes' said 'I think, therefore I am,' then answer how much is 2-6x2",
+        question: "Você percebe ques está enfrentando dificuldades para se concentrar, sente-se constantemente cansado e tem dificuldade em manter o foco no trabalho. O que  você faria para cuidar da  sua  saúde  mental nessa  situação ",
         answers:[
-            {text:"-8", correct:false},
-            {text:"-10", correct:true},
-            {text:"6", correct:false},
-            {text:"-12", correct:false},
+            {text:"Buscar felicidade momentânea e gastaria dinheiro com roupa", correct:false},
+            {text:"Trabalhar horas extras de forma excessiva sem tirar tempo para descanso e  recuperação ", correct:false},
+            {text:"Consideraria procurar aconselhamento ou terapia para desenvolver estratégias de enfrentamento e lidar melhor com o estresse no trabalho", correct:true},
         ]
     },
     {
-        question: "If Maria, according to economic theory, offers her products daily, then answer: what is the technical term for the total quantity of goods and services that producers are willing to sell in a given period",
+        question: "Sabe aquelas realizações que podem ser consideradas pequenas, mas que para você foram muito gratificantes? Seja conseguir fazer uma receita nova ou bater uma meta pessoal, toda conquista merece ser celebrada! Você tem o costume de celebrar suas conquistas?",
         answers:[
-            {text:"To offer", correct:false},
-            {text:"Supply", correct:true},
-            {text:"Offered", correct:false},
-            {text:"Offering", correct:false},
+            {text:"Celebro tudo que conquisto", correct:true},
+            {text:"Tô nem aí pra nada ", correct:false},
+            {text:"Ah, não sei", correct:false},
         ]
     },
     {
-        question: "According to the periodic table, the chemical element oxygen has an atomic number of 8, so answer: If a body is in uniform motion with a velocity of 20 meters per second, then answer: what is the total distance covered by the body in 40 seconds?",
+        question: "Como você lidaria se seus pais insistissem que você fizesse a faculdade da escolha deles?",
         answers:[
-            {text:"400", correct:false},
-            {text:"1200", correct:false},
-            {text:"800", correct:true},
-            {text:"200", correct:false},
+            {text:"Seguiria o seu sonho, ignorando a opinião deles?", correct:false},
+            {text:"Optaria por seguir a escolha deles?", correct:false},
+            {text:"Exploraria uma terceira opção, buscando algo completamente novo?", correct:true},
         ]
     },
     {
-        question: "If, according to genetics, a gene is a hereditary unit that encodes a specific characteristic of an organism, then answer: what is the term used in programming for a unit of code that performs a specific function in a computer program?",
+        question: "Em momentos de ansiedade, você prefere",
         answers:[
-            {text:"Gene", correct:false},
-            {text:"Variant", correct:false},
-            {text:"Function", correct:true},
-            {text:"Variable", correct:false},
+            {text:"Refletir sobre a situação", correct:true},
+            {text:"Distrair-se com atividades", correct:true},
+            {text:"Procurar apoio social", correct:true},
+            {text:"Outra estratégia que funcione para você", correct:true},
         ]
     },
     {
-        question: "If, in astrology, the sign of Aries is associated with the head region and the nervous system, then answer: in terms of biomedicine, which system in the human body is responsible for the processing and interpretation of sensory stimuli, including those related to pain and touch?",
+        question: "Numa determinada situação, Rodrigo estava passando por problemas psicológicos e lembrou-se do Centro de Valorização da Vida (CVV). Qual é o número que ele deve discar?",
         answers:[
-            {text:"Nervous System", correct:true},
-            {text:"Endocrine System", correct:false},
-            {text:"Circulatory System", correct:false},
-            {text:"Respiratory System", correct:false},
+            {text:"194", correct:false},
+            {text:"190", correct:false},
+            {text:"188", correct:true},
+
         ]
     }
 ]
