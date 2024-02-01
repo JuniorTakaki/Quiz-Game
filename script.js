@@ -1,6 +1,6 @@
 const questions =[
     {
-        question: "Você percebe ques está enfrentando dificuldades para se concentrar, sente-se constantemente cansado e tem dificuldade em manter o foco no trabalho. O que  você faria para cuidar da  sua  saúde  mental nessa  situação ",
+        question: "Você percebe que está enfrentando dificuldades para se concentrar, sente-se constantemente cansado e tem dificuldade em manter o foco no trabalho. O que  você faria para cuidar da  sua  saúde  mental nessa  situação ",
         answers:[
             {text:"Buscar felicidade momentânea e gastaria dinheiro com roupa", correct:false},
             {text:"Trabalhar horas extras de forma excessiva sem tirar tempo para descanso e  recuperação ", correct:false},
@@ -18,9 +18,9 @@ const questions =[
     {
         question: "Como você lidaria se seus pais insistissem que você fizesse a faculdade da escolha deles?",
         answers:[
-            {text:"Seguiria o seu sonho, ignorando a opinião deles?", correct:false},
+            {text:"Seguiria o seu sonho, ignorando a opinião deles?", correct:true},
             {text:"Optaria por seguir a escolha deles?", correct:false},
-            {text:"Exploraria uma terceira opção, buscando algo completamente novo?", correct:true},
+            {text:"Exploraria uma terceira opção, buscando algo completamente novo?", correct:false},
         ]
     },
     {
